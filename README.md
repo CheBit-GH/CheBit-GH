@@ -1,4 +1,4 @@
-## Hi, I'm BitChe
+## Hi, I'm CheBit
 
 I build small, privacy-first developer tools that run entirely in the browser.
 
@@ -16,7 +16,7 @@ Full-stack developer, 10+ years. Java on the backend, Vue and JavaScript on the 
 
 Notes on hashing, encoding and client-side privacy:
 
-- dev.to — <!-- 换成你的 dev.to 主页地址，例如 https://dev.to/yourname -->
+- dev.to — https://dev.to/chebit
 
 ### Stack
 
