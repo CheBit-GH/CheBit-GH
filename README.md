@@ -1,112 +1,38 @@
-<!-- 头部横幅 -->
-<div align="center">
-    <img width="50%" src="https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6"/>
-</div>
+## Hi, I'm BitChe
 
-<!-- 个人简介 -->
-<div align="center">
+I build small, privacy-first developer tools that run entirely in the browser.
 
-![GitHub followers](https://img.shields.io/github/followers/BitChe-GH?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/BitChe-GH?style=social)
-![Visitors](https://komarev.com/ghpvc/?username=BitChe-GH&color=blueviolet)
+### What I'm working on
 
-</div>
+[Tool Vault](https://usetoolvault.com) — 18 free online developer tools: JSON formatter, image compressor, Base64 encoder, regex tester, SQL formatter, YAML formatter and more.
 
-## ✨ 关于我
+Running client-side is a deliberate constraint, not an implementation detail. The strings people paste into these tools are often API tokens, connection strings or config files, and the most reliable way to keep them safe is to never send them anywhere in the first place.
 
-<div align="center">
+### Background
 
-<div style="
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 20px;
-  padding: 30px;
-  margin: 20px 0;
-  color: white;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-  animation: float 6s ease-in-out infinite;
-">
+Full-stack developer, 10+ years. Java on the backend, Vue and JavaScript on the front.
 
-<table>
-  <tr>
-    <td>🌟 基本信息
-<table>
-  <tr>
-    <td>🎓 <strong>角色</strong></td>
-    <td>全栈开发者 | 开源爱好者</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>位置</strong></td>
-    <td>北京，中国</td>
-  </tr>
-  <tr>
-    <td>💡 <strong>专长</strong></td>
-    <td>JAVA后端</td>
-  </tr>
-    <tr>
-    <td>📅 <strong>编码年限</strong></td>
-    <td>10年+ 经验</td>
-  </tr>
-</table></td>
-    <td>🎨 个人特质
-<table>
-  <tr>
-    <td>💡 <strong>思维模式</strong></td>
-    <td>逻辑思维 + 创造性解决问题</td>
-  </tr>
-  <tr>
-    <td>🎯 <strong>工作风格</strong></td>
-    <td>注重细节，追求代码优雅</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>协作方式</strong></td>
-    <td>积极沟通，团队优先</td>
-  </tr>
-<tr>
-    <td>📚 <strong>学习态度</strong></td>
-    <td>持续学习，拥抱变化</td>
-  </tr>
-</table></td>
-  </tr>
-</table>
+### Writing
 
+Notes on hashing, encoding and client-side privacy:
 
-</div>
+- dev.to — <!-- 换成你的 dev.to 主页地址，例如 https://dev.to/yourname -->
 
-</div>
+### Stack
 
-### 🎯 技能亮点
-<div align="center">
+Java · Vue · JavaScript · MySQL · Redis · Docker · Nginx
 
-| 领域 | 技能                    | 熟练度 |
-|------|-----------------------|--------|
-| ⚙️ 后端 | Java | ⭐⭐⭐⭐⭐ |
-| 🎨 前端 | Vue, JavaScript       | ⭐⭐⭐⭐☆ |
-| 🗄️ 数据库 | MySQL, Oracle, Redis  | ⭐⭐⭐⭐☆ |
-| 🔧 工具 | Git, Docker, Nginx    | ⭐⭐⭐☆☆ |
+### Contact
 
+[usetoolvault.com](https://usetoolvault.com) · che24971@gmail.com
 
-</div>
+<details>
+<summary>中文简介</summary>
 
-### 🎪 生活剪影
-- ☕ **日常**: 咖啡 + 代码 = 完美一天
-- 🎵 **音乐**: 工作时的最佳伴侣
-- 🏀 **运动**: 保持活力的秘诀
-- 📖 **阅读**: 技术博客与科幻小说
-- 🎮 **游戏**: 放松与灵感来源
+十年全栈开发，后端以 Java 为主，前端用 Vue 和 JavaScript。
 
-### 🌈 个人特质
-<div align="center">
+目前在维护 [Tool Vault](https://usetoolvault.com)：18 个全部在浏览器端运行的开发者工具，免费、无需注册、数据不上传。
 
-```javascript
-const personality = {
-  traits: ["🧠 逻辑思维", "💪 坚韧不拔", "🌟 追求卓越", "🤝 团队合作"],
-  passions: ["🔥 技术创新", "📚 持续学习", "💡 解决问题", "🌍 开源精神"],
-  philosophy: "『代码改变世界，创新驱动未来』"
-};
-```
-</div>
+最近在写哈希、编码和浏览器端隐私相关的笔记。
 
-### 🌟 我的理念
-> "技术是为解决问题而生，代码是表达思想的艺术。我享受从0到1的创造过程，也珍视团队协作中的思想碰撞。"
-
-## 感谢你的访问！希望你能找到感兴趣的内容 ✨
+</details>
